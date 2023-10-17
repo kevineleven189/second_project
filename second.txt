@@ -1,9 +1,4 @@
 this is a test file.
 this is second line
 this is third line.
-<<<<<<< HEAD
-this is new line.
-=======
-this is fourth line.
->>>>>>> a65d39819917b6f67a6a217ebc1508a7220e1ab8
-use git checkout -b message to merge
+
